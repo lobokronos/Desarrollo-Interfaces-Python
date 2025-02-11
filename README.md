@@ -27,6 +27,5 @@ Este repositorio recopila los ejercicios y prácticas realizadas durante el curs
 
 ---
 
-## 👋 Contacto
-Si necesitas más información, no dudes en preguntarme.
+
 
