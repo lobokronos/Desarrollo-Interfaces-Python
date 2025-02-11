@@ -1,4 +1,4 @@
-# 💻 Curso de Desarrollo de Interfaces con PySide6 
+# 💻 Desarrollo de Interfaces con PySide6 
 
 ## 🔧 Tecnologías utilizadas
 
